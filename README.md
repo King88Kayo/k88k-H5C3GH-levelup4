@@ -22,7 +22,8 @@ Your website must meet accessibility standards. You can achieve this completing 
 * Title elements contain a concise, descriptive title
 
 
-The purpose of this project is to consolidate the HTML and CSS code and create a more accessible website. This will also allow the next developer to easily understand the structure of the HTML and CSS code.
+
+The purpose of this project is to consolidate the HTML and CSS code and create a more accessible worfklow. This will also allow the next developer to easily understand the structure of the HTML and CSS code.
 
 This project allowed me to practise using semantic HTML and CSS code allowing for a more logical structure. 
 
@@ -32,6 +33,14 @@ I have also learned how to use Github and store my work online in a secure envir
 
 # Github Link
 https://github.com/King88Kayo/k88k-H5C3GH-levelup4.git
+
+### Please Note
+
+The location of the source code is as follows:
+
+#HTML - .index.html
+#CSS - ./Assets/css/style.css
+#IMAGES - ./Assets/images/..
 
 # Github Pages
 https://king88kayo.github.io/k88k-H5C3GH-levelup4/
